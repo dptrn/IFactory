@@ -1,0 +1,110 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+}
+.clr{
+    background-color: darkgreen;
+    color: white;
+    width: 45vw;
+    border-radius: 5px;
+    border:5px solid white ;
+    
+
+}
+.clr1{
+    color:black;
+}
+
+
+.img1{
+    background: url(https://images.pexels.com/photos/1146134/pexels-photo-1146134.jpeg?auto=compress&cs=tinysrgb&w=600);
+    color: yellowgreen;
+    width: 680px;
+    height: 150px;
+    padding: 5px;
+    transform: rotate(-2deg);
+    margin-right: 6px;
+
+}
+.img1 p{
+    padding: 15px;
+    text-align: center;
+    font-size: medium;
+
+
+}
+.img2{
+    background: url(https://images.pexels.com/photos/1435075/pexels-photo-1435075.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    color: yellowgreen;
+    width: 680px;
+    height: 150px;
+    padding: 5px;
+    transform: rotate(-2deg);
+    margin-right: 10px;
+    z-index: 1;
+}
+.img2 p{
+        padding: 15px;
+        text-align: center;
+        font-size: large;
+        border: 5px;
+}
+.img3{
+    background: url(https://images.pexels.com/photos/1146708/pexels-photo-1146708.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    color: yellowgreen;
+    width: 680px;
+    height: 150px;
+    padding: 5px;
+    transform: rotate(-2deg);
+    margin-right: 10px;
+    z-index: 1;
+}
+.img3 p{
+    padding: 15px;
+    text-align: center;
+    font-size: large;
+    border: 5px;
+    
+}
+.img4{
+    background: url(https://images.pexels.com/photos/2514035/pexels-photo-2514035.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    color: yellowgreen;
+    width: 680px;
+    height: 150px;
+    padding: 5px;
+    transform: rotate(-2deg);
+    margin-right: 10px;
+    z-index: 1;
+    
+}
+.img4 p{
+    padding: 15px;
+    text-align: center;
+    font-size: large;
+    border: 5px;
+}
+.img5{
+    background: url(https://images.pexels.com/photos/66997/pexels-photo-66997.jpeg);
+    color: yellowgreen;
+    width: 680px;
+    height: 155px;
+    padding: 5px;
+    transform: rotate(-2deg);
+    margin-right: 10px;
+    z-index: 1;
+}
+.img5 p{
+    padding: 15px;
+    text-align: center;
+    font-size: large;
+    border: 5px;
+    position: absolute;
+}
+.img5 .h{
+    margin-top: 90px;
+    margin-left: 300px;
+}
